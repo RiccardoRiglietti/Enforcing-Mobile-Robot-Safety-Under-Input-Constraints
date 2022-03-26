@@ -60,7 +60,7 @@ We have first looked at the problem of ACC in the case of the presence of input 
 which are explicitly included in the construction of control barrier functions (ICCBF) in order
 to guarantee that safety is maintained with an input constrained controller.
 We have analysed how the shape of the safe region changes by varying the parameters that define
-the class-K functions α i , finding out that lowering these values reflects in a smaller safe region,
+the class-K functions α_i , finding out that lowering these values reflects in a smaller safe region,
 while enlarging them too much corresponds to not finding a proper ICCBF accordingly to the
 choices done in our simulations, i.e. the number N and the functions α_i . Furthermore, we have
 tested the validity of this type of CBFs concluding that, once we tuned properly the parameters
