@@ -1,4 +1,4 @@
-# Enforcing-Mobile-Robot-Safety-Under-Input-Constraints
+# Enforcing Mobile Robot Safety Under Input Constraints
 
 ## Introduction
 
